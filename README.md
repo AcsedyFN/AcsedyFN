@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @AcsedyFN
 - 👀 I’m interested in ... sports, cyber security, ai, economics, psychology, sociology, gaming
-- 🌱 I’m currently learning ... more about this world, especially App Development and 
+- 🌱 I’m currently learning ... more about this world, especially App Development
 - 💞️ I’m looking to collaborate on ... my projects with interested individuals who are looking to develop applications
 - 📫 How to reach me ... here on github or via Hackerrank: @acsedy_coding
 
